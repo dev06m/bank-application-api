@@ -5,15 +5,15 @@
 Uygulamayı IDE kullanmadan çalışır hale getirmek için 
 aşağıdaki komutları kullanmanız yeterli olacak.
 
-
-**cd Desktop/transactions**
-**mvnw package**
-**cd target**
-**java -jar *.jar**
+**Windows** 
+<br/>cd Desktop/transactions
+<br/>mvnw package
+<br/>cd target
+<br/>java -jar *.jar
 
 **MacOS**
-**cd transactions**
-**./mvnw package**
-**cd target**
-**java -jar *.jar**
+<br/>cd transactions
+<br/>./mvnw package
+<br/>cd target
+<br/>java -jar *.jar
 
